@@ -17,3 +17,7 @@ Open source data drawn from various agencies such as Centers for Disease Control
 
 - Excel: Conduct a statistical analysis and integrate relevant datasets to draw insights and create an interim report with the findings.
 - Tableau: Create visualizations based on the analysis and present a storyboard to showcase the results.
+
+### Results
+
+The Tableau storyboard can be found [here](https://public.tableau.com/app/profile/bryan.lim3944/viz/InfluenzaDeathsintheU_SRevised/U_S_InfluenzaStoryboard#1)
